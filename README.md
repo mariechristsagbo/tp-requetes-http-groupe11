@@ -1,6 +1,6 @@
-# mini_projet_candidats
+# tp-requetes-http
 
-A new Flutter project.
+Effectuer des requetes avec JSON Placeholder
 
 ## Getting Started
 
